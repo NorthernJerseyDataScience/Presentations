@@ -4,7 +4,12 @@ A repo to host all the presentations for the NJDS Meetup group.
 
 ##NJDS_MachineLearning
 This is the supervised Machine Learning tutorial presented on [May 7th, 2015](http://www.meetup.com/Northern-Jersey-Data-Science-Meetup/events/221757524/)
-This tutorial is entirely self-contained. No data files need to be imported.
+This tutorial covers supervised learning algorithms in Python that are available through SciKit-Learn. If you have installed Python through the [Anaconda distribution](https://store.continuum.io/cshop/anaconda/),
+then you need to install the seaborn library
+```
+pip install seaborn
+```
+There are no external data files needed to replicate this notebook.
 
 ##DataDive
 This is the DataDive example I (Manojit) made with several other members of the group on [July 26, 2015](http://www.meetup.com/Northern-Jersey-Data-Science-Meetup/events/224029988/).
